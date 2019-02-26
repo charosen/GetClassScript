@@ -2,8 +2,8 @@ require 'net/http'
 require 'timeout'
 require 'cgi'
 
-$username = '2018140059'
-$password = 'Crz437991'
+$username = 'xxxxx'
+$password = 'xxxxxx'
 $classes = [
   {
     'id' => '3111100944',
